@@ -1,6 +1,4 @@
-# My-first-website
+# Physology Website
 
-This website was originally created in 2021 as a personal project to showcase my web development skills
-
-Thank you for visiting and I hope you find this website informative and enjoyable to explore!
+This is my first website, created in 2021. It's not perfect, but it's a work in progress, just like my physiology knowledge!
 
